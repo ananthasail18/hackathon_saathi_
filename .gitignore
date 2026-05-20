@@ -1,0 +1,15 @@
+# Environments
+backend/venv/
+backend/.env
+backend/__pycache__/
+backend/token.json
+backend/credentials.json
+
+# Node modules
+frontend/node_modules/
+frontend/dist/
+frontend/.DS_Store
+
+# Logs and databases
+*.sqlite3
+*.log
